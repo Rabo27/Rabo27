@@ -21,8 +21,6 @@
 
 <img align="right" alt="AI Brain Animation" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-### 🚀 **Passionate Computer Vision & Data Analyst**
-
 I'm a **Results-driven Data Analyst** with 3+ years of experience, specializing in **Computer Vision, Data Analysis, LLM Development, and Machine Learning**. 
 
 #### 💡 **Key Expertise: Computer Vision & Data Analysis**
