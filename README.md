@@ -83,3 +83,129 @@ Building intelligent visual and data solutions:
 - HuggingFace Transformers implementation
 - Natural Language Processing projects
 - AI model optimization and deployment
+
+</td>
+<td width="40%">
+
+### ⚡ **LLM Developer & Researcher**
+*Freelance | 2020 - Present*
+
+- Large Language Model development and fine-tuning
+- HuggingFace Transformers implementation
+- Natural Language Processing projects
+- AI model optimization and deployment
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🖼️_Computer_Vision-Active-FF6B6B?style=for-the-badge" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/📊_Data_Analysis-Expert-4CAF50?style=for-the-badge" alt="Data Analysis">
+  <img src="https://img.shields.io/badge/🤖_LLM_Development-Specialist-2196F3?style=for-the-badge" alt="LLM Development">
+</div>
+
+### 🖼️ **Computer Vision & Image Processing** (2021 - Present)
+```yaml
+Technology: OpenCV, TensorFlow, PyTorch, Computer Vision
+Features:
+  - Image Processing: Advanced image manipulation and enhancement
+  - Object Detection: Real-time object recognition and tracking
+  - Face Recognition: Biometric identification and analysis
+  - Video Analysis: Motion detection and pattern recognition
+  - Image Segmentation: Precise object boundary detection
+Impact: Developing intelligent visual systems for various applications
+```
+
+### 📊 **Data Analysis & Visualization** (2020 - Present)
+```yaml
+Technology: Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly
+Features:
+  - Statistical Analysis: Comprehensive data insights and trends
+  - Data Visualization: Interactive charts, graphs, and dashboards
+  - Predictive Analytics: Future trend forecasting and modeling
+  - ETL Processes: Data extraction, transformation, and loading
+  - Business Intelligence: Actionable insights for decision making
+```
+
+### 🤖 **LLM Development & NLP** (2021 - Present)
+```yaml
+Technology: HuggingFace, Transformers, PyTorch, TensorFlow
+Features:
+  - Large Language Models: Custom model development and fine-tuning
+  - Natural Language Processing: Text analysis and understanding
+  - Model Optimization: Performance enhancement and efficiency
+  - API Integration: Seamless deployment and integration
+  - Multilingual Support: Cross-language model capabilities
+```
+
+---
+
+## 🛠️ Technical Excellence
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch,pandas,matplotlib,flask,aws&theme=dark" alt="Tech Stack Icons" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Computer_Vision-Expert-FF6B6B?style=for-the-badge&logo=opencv&logoColor=white" alt="CV">
+  <img src="https://img.shields.io/badge/Data_Analysis-Advanced-4CAF50?style=for-the-badge&logo=pandas&logoColor=white" alt="DA">
+  <img src="https://img.shields.io/badge/LLM_Development-Specialist-2196F3?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLM">
+  <img src="https://img.shields.io/badge/Machine_Learning-Professional-9C27B0?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML">
+</div>
+
+### 💻 **Core Technologies**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow" />
+        <br>TensorFlow
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48" alt="PyTorch" />
+        <br>PyTorch
+      </td>
+      <td align="center" width="96">
+        <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="48" height="48" alt="HuggingFace" />
+        <br>HuggingFace
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+        <br>Pandas
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" />
+        <br>OpenCV
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErenAta16&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenAta16&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+---
+
+## 🚀 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErenAta16&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+</div>
+
+---
+
