@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/🖼️_Computer_Vision-Expert-FFD700?style=for-the-badge" alt="Computer Vision">
   <img src="https://img.shields.io/badge/📊_Data_Analyst-Specialist-00C853?style=for-the-badge" alt="Data Analyst">
   <img src="https://img.shields.io/badge/🤖_LLM_Developer-Advanced-2196F3?style=for-the-badge" alt="LLM Developer">
-  <img src="https://img.shields.io/badge/📍_Location-Turkey-E91E63?style=for-the-badge" alt="Location">
+  <img src="https://img.shields.io/badge/📍_Location-Ethiopia-E91E63?style=for-the-badge" alt="Location">
 </div>
 
 <br>
